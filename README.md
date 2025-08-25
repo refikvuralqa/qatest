@@ -4,7 +4,7 @@ Bu proje, Zara web sitesi için Selenium WebDriver kullanarak otomatik test sena
 
 ## Proje Özellikleri
 
-- **Java 11** programlama dili kullanılmıştır
+- **Java 17** programlama dili kullanılmıştır
 - **Maven** proje yapısı
 - **Selenium WebDriver 4.15.0** web otomasyon
 - **JUnit 5** test framework
